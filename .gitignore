@@ -44,6 +44,7 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
+api_key.txt
 
 # Model files (if you save trained models)
 *.pkl
